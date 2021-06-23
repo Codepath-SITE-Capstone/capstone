@@ -1,10 +1,17 @@
 # Project Proposal
 
-Pod Members: **Add Pod Members Names**
+Pod Members: 
+Obehi Ehimen, Sofia Riley, Kelsey Hetherington
 
 ## Problem Statement
 
-Insert your groups problem statement and target audience.
+ideas:
+
+1. transient/homeless population support
+2. mental health support w/ emotional support dog feature 
+3. filtering businesses for black owned/local/woman owned/ minority owned 
+4. beauty sustainability app for recycling and donating beauty products
+5. anti-social media social media app 
 
 ## Description
 
