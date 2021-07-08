@@ -4,7 +4,7 @@ Pod Members: Obehi Ehimen, Sofia Riley, Kelsey Hetherington
 
 ## Problem Statement and Description
 
-As a beauty/makeup product owner I need to be able to dispose/donate my products in a more sustainable and guilt-free way. 
+As a beauty/makeup product owner I need to be able to get rid of my products in a more sustainable and guilt-free way. 
 
 ## User Roles and Personas
 
@@ -45,7 +45,15 @@ PERSONAS:
 List all the pages and screens in the app. Include wireframes for at least 3 of them.
 
 1. Homepage
-2. 
+2. Sustainability Tips
+3. LogIn Page
+4. Register Page
+5. User Profile Page
+6. Donated Products Page
+7. Recycled Products Page
+8. "Give" form page
+9. "Give" confirmation page
+10. "Give" unauthorized page 
 
 ## Data Model
 
