@@ -66,8 +66,8 @@ Wireframe Link:
 
 <img width="645" alt="Screen Shot 2021-07-09 at 3 20 03 PM" src="https://user-images.githubusercontent.com/69259084/125141181-26447100-e0c9-11eb-883d-9a3b102fd3cc.png">
 
-
 ## Endpoints
 
+<img width="645" alt="Screen Shot 2021-07-09 at 3 21 27 PM" src="https://user-images.githubusercontent.com/69259084/125141264-57bd3c80-e0c9-11eb-8566-959d0e01d056.png">
 
 ***Don't forget to set up your Issues, Milestones, and Project Board!***
