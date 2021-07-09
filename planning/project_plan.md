@@ -60,11 +60,14 @@ Wireframe Link:
 <iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2Furmo3KhloAjWgzS9SCIiz2%2FBeauty-Sustainability-Home-Pg.%3Fnode-id%3D0%253A1" allowfullscreen></iframe>
 
 ## Data Model
+<img width="645" alt="Screen Shot 2021-07-09 at 3 19 36 PM" src="https://user-images.githubusercontent.com/69259084/125141164-16c52800-e0c9-11eb-8ec6-53a646cb6d16.png">
 
-Describe your app's data model using diagrams or tables
+<img width="645" alt="Screen Shot 2021-07-09 at 3 19 04 PM" src="https://user-images.githubusercontent.com/69259084/125141135-03b25800-e0c9-11eb-9436-d12ebbf01a3a.png">
+
+<img width="645" alt="Screen Shot 2021-07-09 at 3 20 03 PM" src="https://user-images.githubusercontent.com/69259084/125141181-26447100-e0c9-11eb-883d-9a3b102fd3cc.png">
+
 
 ## Endpoints
 
-List the API endpoints you will need to implement.
 
 ***Don't forget to set up your Issues, Milestones, and Project Board!***
