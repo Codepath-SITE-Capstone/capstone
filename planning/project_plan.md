@@ -19,26 +19,27 @@ PERSONAS:
 
 ## User Stories
 
-1. As a skincare product lover, I want to be able to donate the products that didn't work out for me to a local donation center, so that I don't have too much clutter of skincare products in my bathroom. (Feature = list donation centers)
+1. As a user I would like to learn more about this website and their purpose/mission. (feature = about page or mission statement)
 
-2. As a user with many empty makeup bottles, I want to recycle them so that I can get rid of them without throwing them away in the trash. (Feature = list recycling centers)
+2. As a user I want to view and keep track of overall sustainability trends (homepage) 
 
-3. As a user who has donated or recycled products, I want to be able to see how many I have donated/recycled so that I can keep track of them. (stretch feature = reward system, non-stretch = history, incorporate a login/account feature, include in database)
+3. As a user I would like to see what this organization/website receives as a donation/recycle
 
 4. As a user who has recently donated some beauty products to the website, I would like to learn more about how to be sustainable. (page for tips on sustainability)
 
 5. As a user, I may not have any current problems of being sustainable when it comes to my beauty products, but I would like to contribute to beauty sustainability by buying only from brands that are sustainable themselves. (page that lists stores and links that are sustainable/eco-friendly)
 
-6. As a user I would like to view stats on sustainability and personal progress. (appears after history page under profile)
+6. As a skincare product lover, I want to be able to donate or recycle the products that didn't work out for me or are empty to a local donation center or recycle center, so that I don't have too much clutter of skincare products in my bathroom. (Feature = list donation centers)
 
-7. As a user I want to view and keep track of overall sustainability trends (homepage) 
+7. As a user, After i press submit on the “give” form. I want would like to see a list of donation/recycle centers I can drop my products off.
 
-8. As a user I would like to view other user’s donation milestones/progress (homepage to view others progress OR view others progress directly as a separate tab [need permission to share])
+8. As a user I would like to delete a product from the “give” form.
 
-9. As a non-profit organization who wants to promote their donation center I want a way to easily register my center onto the website. 
+9. As a user who has donated or recycled products, I want to be able to see how many products I have donated/recycled so that I can keep track of them. (stretch feature = reward system, non-stretch = history, incorporate a login/account feature, include in database) 
 
-10. As an individual in need of products I want to be able to find resources that provide information on where/how to get these things (connect that individual to orgs/donation-pantry?) 
+10. As a user I would like to keep my personal information private including what the things I have donated/recycled. I would be able to see my information when I log in.
 
+11. As a user I would like to change and update my password 
 
 ## Pages/Screens
 
